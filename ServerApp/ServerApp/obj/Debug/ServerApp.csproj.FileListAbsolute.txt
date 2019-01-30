@@ -1,0 +1,7 @@
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\bin\Debug\ServerApp.exe.config
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\bin\Debug\ServerApp.exe
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\bin\Debug\ServerApp.pdb
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
