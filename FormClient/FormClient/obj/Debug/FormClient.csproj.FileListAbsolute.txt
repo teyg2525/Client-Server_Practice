@@ -1,0 +1,10 @@
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.csprojAssemblyReference.cache
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.Form1.resources
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.Properties.Resources.resources
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.csproj.GenerateResource.cache
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.csproj.CoreCompileInputs.cache
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\bin\Debug\FormClient.exe.config
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\bin\Debug\FormClient.exe
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\bin\Debug\FormClient.pdb
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.exe
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Debug\FormClient.pdb

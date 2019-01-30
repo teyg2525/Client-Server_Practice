@@ -1,0 +1,4 @@
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Release\FormClient.Form1.resources
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Release\FormClient.Properties.Resources.resources
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Release\FormClient.csproj.GenerateResource.cache
+D:\Labs\3 курс\lab_С#\Practice\The_True_Lab1_Part5\FormClient\FormClient\obj\Release\FormClient.csproj.CoreCompileInputs.cache
